@@ -26,3 +26,9 @@ curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/instal
 cp mac_zshrc  ~/.zshrc
 source ~/.zshrc
 ```
+
+### 复制env.sh
+```
+cp env.sh ~/.env.sh
+source ~/.zshrc
+```
