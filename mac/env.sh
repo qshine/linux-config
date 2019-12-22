@@ -16,3 +16,9 @@ alias grebase2='git rebase -i HEAD~~'
 alias ipy='ipython'
 alias py='python '
 alias py3='python3 '
+
+ # tmux
+ alias tnew='tmux new -s '
+ alias tat='tmux attach -t '
+ alias tls='tmux ls'
+ alias tkill='tmux kill-session -t '
