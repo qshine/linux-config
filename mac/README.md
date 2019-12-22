@@ -15,6 +15,12 @@ chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
+### tmux
+```
+cp tmux.conf ~/.tmux.conf
+```
+进入tmux控制台输入`ctrl + b` + `:`, 再输入`source-file ~/.tmux.conf`重新加载配置
+
 ### zplug 插件管理器
 ```
 # https://github.com/zplug/zplug
