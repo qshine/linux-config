@@ -17,8 +17,11 @@ alias ipy='ipython'
 alias py='python '
 alias py3='python3 '
 
- # tmux
+ # tmux   brew install mitmproxy
  alias tnew='tmux new -s '
  alias tat='tmux attach -t '
  alias tls='tmux ls'
  alias tkill='tmux kill-session -t '
+
+ # mitmproxy   brew install mitmproxy
+ alias mitp="mitmproxy -p8888"
