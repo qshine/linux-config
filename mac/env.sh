@@ -25,3 +25,6 @@ alias py3='python3 '
 
  # mitmproxy   brew install mitmproxy
  alias mitp="mitmproxy -p8888"
+
+ # golang
+alias godoc='godoc -http=:8001'
