@@ -5,7 +5,7 @@ alias q='exit'
 # git
 alias grm='git rebase master'
 alias gdc='git diff --cached'
-alias gcm='git diff master'
+alias gdm='git diff master'
 alias gad='git add '
 alias gs='git status -s'
 alias gcm='git commit -m'
