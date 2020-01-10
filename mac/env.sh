@@ -29,3 +29,6 @@ alias py3='python3 '
 
  # golang
 alias godoc='godoc -http=:8001'
+
+# when-changed
+alias when='when-changed -r -v -1 . '
