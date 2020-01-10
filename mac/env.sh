@@ -9,8 +9,10 @@ alias gdm='git diff master'
 alias gad='git add '
 alias gs='git status -s'
 alias gcm='git commit -m'
-alias gpo='git push origin '
 alias gpom='git push origin master'
+alias gpo='git push origin '
+alias gplm='git pull origin master'
+alias gpl='git pull origin '
 alias grebase2='git rebase -i HEAD~~'
 
 # python
