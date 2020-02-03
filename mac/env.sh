@@ -34,3 +34,8 @@ alias godoc='godoc -http=:8001'
 
 # when-changed
 alias when='when-changed -r -v -1 . '
+
+# conda
+alias cls='conda env list'
+alias cac='conda activate '
+alias cdc='conda deactivate'
