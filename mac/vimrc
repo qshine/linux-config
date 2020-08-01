@@ -1,0 +1,6 @@
+syntax on
+set nu!
+set autoindent
+
+" 解决mac下不能向左delete
+set backspace=2
